@@ -129,7 +129,7 @@ Connect With Me  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Isla
 ---
 
 <h1 align="center">
-GitHub Stats  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bar%20Chart.png" alt="Bar Chart" width="35" />
+GitHub Stats &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Crystal%20Ball.png" alt="Crystal Ball" width="35" />	
 </h1>
 
 <div align="center">
@@ -137,9 +137,6 @@ GitHub Stats  &nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-A
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AliSeleem&show_icons=true&hide_border=true" alt="AliSeleem" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliSeleem&hide_border=true&bg_color=0D1117" alt="AliSeleem" />
 </div>
 
 ---
